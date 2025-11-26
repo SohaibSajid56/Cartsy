@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037674552911",
+    "project_id": "cartsy-36d5b",
+    "storage_bucket": "cartsy-36d5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037674552911:android:84978c8422da49d6d3143a",
+        "android_client_info": {
+          "package_name": "com.example.mad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALWG4FUkDdyeyL4M5-lFyRUrobE7hXVPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
